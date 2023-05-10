@@ -1,0 +1,39 @@
+.con {
+	weight: 1000px;
+	height: 200px;	
+	background-color: #00a2e8;
+}
+.red{
+	color: red;
+	text-align: center;
+}
+.white{
+	color: white;
+	text-align: center;
+	margin: 0px 0px 40px 0px;
+}
+.con1{
+	weight: 1000px;
+	height: 200px;	
+	box-sizing: border-box;
+	background-color: #3f48cc;	
+	padding: 20px;
+	text-align: center;
+}
+.con2{
+	weight: 1000px;
+	height: 200px;	
+	box-sizing: border-box;
+	background-color: #fff200;	
+	padding: 20px;
+	text-align: right;
+}
+.con3{
+	weight: 1000px;
+	height: 200px;	
+	box-sizing: border-box;
+	background-color: #3f48cc;	
+	padding: 20px;
+	text-align: right;
+	color: white;
+}
